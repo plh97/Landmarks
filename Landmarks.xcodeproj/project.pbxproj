@@ -42,6 +42,7 @@
 		34B8847E266CF151007C8395 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B8847D266CF151007C8395 /* LandmarkRow.swift */; };
 		34B88480266E89A1007C8395 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B8847F266E89A1007C8395 /* LandmarkList.swift */; };
 		34B88482266EC1E2007C8395 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B88481266EC1E2007C8395 /* LandmarkDetail.swift */; };
+		34BDA43E26B5B1E10001A02A /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34BDA43D26B5B1E10001A02A /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +83,7 @@
 		34B8847D266CF151007C8395 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		34B8847F266E89A1007C8395 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		34B88481266EC1E2007C8395 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
+		34BDA43D26B5B1E10001A02A /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +210,7 @@
 				04E0A5E226B574CE00324DD7 /* PageView.swift */,
 				04E0A5C326AD6C0D00324DD7 /* CategoryRow.swift */,
 				04E0A5DC26B565AE00324DD7 /* PageViewController.swift */,
+				34BDA43D26B5B1E10001A02A /* PageControl.swift */,
 				04E0A5C626AD6F8000324DD7 /* CategoryItem.swift */,
 				04E0A5CD26AD8BF700324DD7 /* Profile.swift */,
 				04E0A5D026AD8F4500324DD7 /* ProfileHost.swift */,
@@ -299,6 +302,7 @@
 				34B8847A266CF124007C8395 /* MapView.swift in Sources */,
 				04E0A5BB26AD55B300324DD7 /* GraphCapsule.swift in Sources */,
 				04E0A5AA26AD435800324DD7 /* HexagonParameters.swift in Sources */,
+				34BDA43E26B5B1E10001A02A /* PageControl.swift in Sources */,
 				34B8847C266CF124007C8395 /* ContentView.swift in Sources */,
 				04E0A5C726AD6F8000324DD7 /* CategoryItem.swift in Sources */,
 				04E0A5BD26AD55B300324DD7 /* HikeDetail.swift in Sources */,
