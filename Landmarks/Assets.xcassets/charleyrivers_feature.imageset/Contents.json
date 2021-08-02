@@ -1,12 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "turtlerock_featured.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "turtlerock_feature@2x.jpg",
+      "filename" : "charleyrivers_feature@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
